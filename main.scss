@@ -1,0 +1,25 @@
+//ABSTRACTS
+@import "abstracts/mixins";
+@import "abstracts/variables";
+@import "abstracts/functions";
+//BASE
+@import "base/base";
+@import "base/tipography";
+@import "base/animation";
+@import "base/utilities";
+//LAYOUT
+@import "layout/header";
+@import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
+//COMPONENTS
+@import "components/buttons";
+@import "components/composition";
+@import "components/amenities-box";
+@import "components/bg-video";
+@import "components/testimonials";
+@import "components/plan";
+@import "components/contact";
+@import "components/form";
+//PAGES
+@import "pages/home";
